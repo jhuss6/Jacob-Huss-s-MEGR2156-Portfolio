@@ -69,13 +69,29 @@ One key assumption that makes this model valid is that the tape acts in a brittl
 
 Component Geometry:
 
+Snail Style Tape Dispenser:
+
 <img src="IMG_4354.jpg" alt="Snail Style Tape Dispenser" width="300">
+
+This tape dispenser is a modern, mass produced plastic version of a WW2 era tape dispenser, it is designed for compactness, handheld use, and lower manufacturing demands than it's larger counterparts.
+
+Serrated Blade:
 
 <img src="IMG_4356.jpg" alt="Serrated Blade" width="300">
 
+This serrated blade has been imbedded permanently into the plastic shell by pressing it between two heated pieces of plastic, with indents that protrude on one side to ensure it does not slide out. When the tape is pulled over the blade and pressed down, the serrations press into and cut the tape at the desired length.
+
+Cylindrical Clip/Holder:
+
 <img src="IMG_4355.jpg" alt="Cylindrical Clip/Holder" width="300">
 
+The Clip/Holder presses into the hole of the tape roll, with angled end bits that are compressed upon insertion and released on the opposite side to provide a physical barrier to prevent the roll from being accidentally removed. The cylindrical shape acts as a bearing for easy, low friction rotation of the tape roll for dispensation.
+
+Tape Roll:
+
 <img src="IMG_4357.jpg" alt="Tape Roll" width="300">
+
+This tape roll has a standardized width, thickness, strength, and inner spool diameter to ensure compatibility with the tape dispenser.
 
 Patent Info:
 
