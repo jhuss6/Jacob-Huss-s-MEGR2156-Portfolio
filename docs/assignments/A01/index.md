@@ -51,7 +51,7 @@ i. Model and Variables
 
 The cutting action is governed by stress concentration and tensile failure mechanics, modeled by the tensile stress equation using a stress concentration factor at the cutting teeth:
 
-\sigma_{max} = K_t \cdot \frac{F}{A}
+$$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
 \sigma_{max}: The maximum local tensile stress experienced by the tape at the cutting edge (N/m^2 or Pa).
 
