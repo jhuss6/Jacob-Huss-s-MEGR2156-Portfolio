@@ -11,11 +11,19 @@ For the first profile I chose to analyze, I used a random number generator to pi
 
 **Navigability:**
 
+This Portfolio is easy to navigate. All pages present had a clearly accessible link and I could go back whenever I wanted.
+
 **Reproducibility:**
+
+This portfolio would be very easy to reproduce as it is highly simplified and easy to understand.
 
 **Evidence of Reasoning:**
 
+Overall I think that the work and detail provided by this user in their assignments shows a great understanding of Mechanical Engineer reasoning, with detailed steps and thoughts throughout assignments and clearly shown math and design changes.
+
 **Professional Tone:**
+
+Overall this user seems to have greatly shown a professional tone in their writings throughout their portfolio though many portions did feel somewhat too brief.
 
 [Cael Brokaw's Canvas Portfolio](https://uncc.instructure.com/eportfolios/5021/home)
 
@@ -23,11 +31,19 @@ For the second profile I chose to analyze, I searched for Github Portfolio pages
 
 **Navigability:**
 
+Upon landing on this users landing page, tabs that direct readers to the key sections are readily shown and easy to understand. This portfolio shows that Greater detail can be added to organization without sacrificing simplicity or ease of access.
+
 **Reproducibility:**
+
+Reproducing this portfolio would likely take a greater level of skill with GitHub, and would be more reasonable for a higher level engineering student or someone with a great independent understanding of the site and how to code webpages.
 
 **Evidence of Reasoning:**
 
+Throughout their work they showed a great level of detail, organization, and communication of their thoughts, math, design processes, etc. They clearly demonstrate a higher level of skill in engineering, likely years ahead of most MEGR 2156 students.
+
 **Professional Tone:**
+
+Their tone is highly professional and shows that they have a great level of experience in the academic engineering world, as well as years of experience in professional engineering.
 
 [Jesse Mayo's Github Portfolio](https://jsmayo.github.io/)
 
@@ -63,7 +79,7 @@ $$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
 Failure happens when sigma_{max} \ge sigma_{ut} (the maximum tensile strength of the tape).
 
-*(Note: i am unsure how to properly display the math symbols on the published page but in the GitHub preview it displays fine.)*
+*(Note: I am unsure how to properly display the math symbols on the published page but in the GitHub preview it displays fine.)*
 
 Assumption:
 
@@ -106,7 +122,7 @@ Patent Number: US4059210A: The main function of this tape dispenser is the same,
 
 Patent Number: USRE41505E1: The main function of this tape dispenser is the same, to dispense and cut adhesive tape from an inserted roll. However it is designed for larger tape rolls, and easy sealing of boxes for shipping/storage, not for compactness, or lower manufacturing demands.
 
-Design Decision: One design decision i can infer from the original design is the utilization of the hole of the tape spool as an ergonomic finger holder. As a hand held tool, i think they made this design decision to improve the tactile control of the dispenser for users.
+Design Decision: One design decision I can infer from the original design is the utilization of the hole of the tape spool as an ergonomic finger holder. As a hand held tool, I think they made this design decision to improve the tactile control of the dispenser for users.
 
 ["Snail" Style Tape Dispenser Patent](https://patents.google.com/patent/USD116599S/en?oq=USD116599S)
 
@@ -118,7 +134,7 @@ To maximize clarity and eliminate confusion for it's readers, the homepage is de
 
 **One Intentional Customization:**
 
-An intentional customization i made for my portfolio was to change the title of each assignment page to include the name of the assignment and the week it was scheduled to be completed during. This will allow readers to easily locate the assignment they wish to, as well as help to keep track of the timeframe of the semester.
+An intentional customization I made for my portfolio was to change the title of each assignment page to include the name of the assignment and the week it was scheduled to be completed during. This will allow readers to easily locate the assignment they wish to, as well as help to keep track of the timeframe of the semester.
 
 **Documentation Standard:**
 
