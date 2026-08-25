@@ -63,6 +63,8 @@ $$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
 Failure happens when sigma_{max} \ge sigma_{ut} (the maximum tensile strength of the tape).
 
+/(Note: i am unsure how to properly display the math symbols on the published page but in the GitHub preview it displays fine./)
+
 Assumption:
 
 One key assumption that makes this model valid is that the tape acts in a brittle or almost brittle manner during the quick tear. While adhesive tape is polymer based and viscoelastic, the sudden force against the sharp, rigid teeth minimizes plastic deformation and focuses the stress to cause tensile failure along the cross section.
