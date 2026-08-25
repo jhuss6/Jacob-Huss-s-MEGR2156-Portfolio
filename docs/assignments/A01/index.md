@@ -1,39 +1,39 @@
 # A1 – [Topic]
 
-## Objective
+## **Objective**
 
 
-## Analyze
+## **Analyze**
 
-Task A:  Portfolio Analysis
+**Task A:**  Portfolio Analysis
 
 For the first profile I chose to analyze, I used a random number generator to pick a student from the Spring 2026 2156 portfolio archives. The number generated was 118 which corresponded to the portfolio of Cael Brokaw.
 
-Navigability:
+**Navigability:**
 
-Reproducibility:
+**Reproducibility:**
 
-Evidence of Reasoning:
+**Evidence of Reasoning:**
 
-Professional Tone:
+**Professional Tone:**
 
 [Cael Brokaw's Canvas Portfolio](https://uncc.instructure.com/eportfolios/5021/home)
 
 For the second profile I chose to analyze, I searched for Github Portfolio pages of engineering students at NC State University. The first result was for the portfolio of Jesse Mayo.
 
-Navigability:
+**Navigability:**
 
-Reproducibility:
+**Reproducibility:**
 
-Evidence of Reasoning:
+**Evidence of Reasoning:**
 
-Professional Tone:
+**Professional Tone:**
 
 [Jesse Mayo's Github Portfolio](https://jsmayo.github.io/)
 
-Task B:  Product Analysis
+**Task B:**  Product Analysis
 
-Primary Function:
+**Primary Function:**
 
 The primary function of this "Snail" style tape dispenser is to dispense and cut adhesive tape from an inserted roll. Mechanically, two tasks are performed:
 
@@ -41,7 +41,7 @@ The primary function of this "Snail" style tape dispenser is to dispense and cut
 
 >Stress concentration for material failure. The serrated metal blade focuses pressure to create small failure points which then expand due to the triangular teeth.
 
-Governing Model:
+**Governing Model:**
 
 The main behavior involves two phases: 
 
@@ -67,7 +67,7 @@ Assumption:
 
 One key assumption that makes this model valid is that the tape acts in a brittle or almost brittle manner during the quick tear. While adhesive tape is polymer based and viscoelastic, the sudden force against the sharp, rigid teeth minimizes plastic deformation and focuses the stress to cause tensile failure along the cross section.
 
-Component Geometry:
+**Component Geometry:**
 
 Snail Style Tape Dispenser:
 
@@ -93,7 +93,7 @@ Tape Roll:
 
 This tape roll has a standardized width, thickness, strength, and inner spool diameter to ensure compatibility with the tape dispenser.
 
-Patent Info:
+**Patent Info:**
 
 Patent Number: USD116599S
 Inventor: Jean Otis Reinecke
@@ -108,19 +108,26 @@ Design Decision: One design decision i can infer from the original design is the
 
 ["Snail" Style Tape Dispenser Patent](https://patents.google.com/patent/USD116599S/en?oq=USD116599S)
 
-## Decide
+## **Decide**
 
-Homepage Identity:
+**Homepage Identity:**
 
 To maximize clarity and eliminate confusion for it's readers, the homepage is designed to immediately state the portfolio's purpose: to document the engineering work conducted by myself for the MEGR 2156 course. Since engineering precision applies to both physical designs and communication, the landing page layout is structured to give direct, error free paths to work materials. By prefacing the scope of the course work and providing an easy to access link to the assignments tab, this homepage ensures that readers can efficiently locate and review the work without unnecessarily burdening themselves.
 
-One Intentional Customization:
+**One Intentional Customization:**
 
 An intentional customization i made for my portfolio was to change the title of each assignment page to include the name of the assignment and the week it was scheduled to be completed during. This will allow readers to easily locate the assignment they wish to, as well as help to keep track of the timeframe of the semester.
 
-Documentation Standard:
+**Documentation Standard:**
 
 I will ensure that all assignments completed during this course follow the proper standard of documentation. They will Analyze, Decide, and Communicate in an effective manner so that they are easily understood by readers.
 
-## Communicate
+## **Communicate**
+
+**Jacob Huss**
+
+As an Engineer in the making, what brought me into the engineering field was my desire to understand how things worked, and how I could fix or even improve upon them. Not only that desire but also my desire to follow in my fathers footsteps and become a successful engineer. Me and him share much of the same mindset, tendencies, and inclinations that made engineering great choices for us. Like my father has done with his past works, I want my future works to have a positive impact in their application, even if it's only directly felt by the machines that I might only design one small part for, as every piece matters and should not go ignored. As engineers we should strive for improvement in both technical design and communication, in an incremental never ending loop. Nothing is perfect but everything we design should have perfection as a goal, and everything we communicate should have perfect understanding as its goal, for we are not trying our best if we are not aiming for the best. We should not neglect communication, as we can not achieve perfection on our own. We must share our knowledge to help each other improve faster, and make mistakes less often. My work will have both internal and external standards applied to it and I strive to meet both sets, for if I do not I can not say I am truly proud of it. I still have a lot to learn, both conceptually and in terms of hands-on experience, and I am looking forward to seeing what lies ahead for me as an Engineer.
+
+Defending an engineering decision means that the logical steps, facts, and analysis' are all detailed and clear to understand, and that if they were re-attempted independently they would provide consistent and effective results again and again. I have a rough idea how to do it though I am not confident enough to go into detail. Simply put the main steps are categorized as Analysis', Decisions, and Communication.
+
 
