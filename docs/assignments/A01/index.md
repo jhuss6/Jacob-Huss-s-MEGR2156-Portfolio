@@ -69,6 +69,14 @@ One key assumption that makes this model valid is that the tape acts in a brittl
 
 Component Geometry:
 
+![Snail Style Tape Dispenser](IMG_4354.jpg)
+
+![Serrated Blade](IMG_4356.jpg)
+
+![Cylindrical Clip/Holder](IMG_4355.jpg)
+
+![Tape Roll](IMG_4357.jpg)
+
 Patent Info:
 
 Patent Number: USD116599S
