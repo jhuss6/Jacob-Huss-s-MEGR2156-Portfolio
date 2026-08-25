@@ -53,9 +53,9 @@ The cutting action is governed by stress concentration and tensile failure mecha
 
 $$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
-\sigma_{max}: The maximum local tensile stress experienced by the tape at the cutting edge (N/m^2 or Pa).
+* **$\sigma_{max}$**: The maximum local tensile stress experienced by the tape at the cutting edge ($\text{N/m}^2$ or $\text{Pa}$).
 
-K_t: The geometric stress concentration factor determined by the sharpness and shape of the blade's teeth (dimensionless).
+* **$K_t$**: The geometric stress concentration factor determined by the sharpness and shape of the blade's teeth (dimensionless).
 
 F: The tensile force applied by the user to the tape (N).
 
