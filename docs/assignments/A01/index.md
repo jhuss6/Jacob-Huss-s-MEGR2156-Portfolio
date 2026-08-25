@@ -5,7 +5,7 @@
 
 ## Analyze
 
-#Task A:  Portfolio Analysis
+# Task A:  Portfolio Analysis
 
 For the first profile I chose to analyze, I used a random number generator to pick a student from the Spring 2026 2156 portfolio archives. The number generated was 118 which corresponded to the portfolio of Cael Brokaw.
 
@@ -31,7 +31,7 @@ Professional Tone:
 
 [Jesse Mayo's Github Portfolio](https://jsmayo.github.io/)
 
-#Task B:  Product Analysis
+# Task B:  Product Analysis
 
 Primary Function:
 
@@ -110,11 +110,11 @@ Design Decision: One design decision i can infer from the original design is the
 
 ## Decide
 
-#Homepage Identity
+# Homepage Identity
 
-#One Intentional Customization
+# One Intentional Customization
 
-#Documentation Standard
+# Documentation Standard
 
 ## Communicate
 
