@@ -69,13 +69,13 @@ One key assumption that makes this model valid is that the tape acts in a brittl
 
 Component Geometry:
 
-![Snail Style Tape Dispenser](IMG_4354.jpg)
+<img src="IMG_4354.jpg" alt="Snail Style Tape Dispenser" width="300">
 
-![Serrated Blade](IMG_4356.jpg)
+<img src="IMG_4356.jpg" alt="Serrated Blade" width="300">
 
-![Cylindrical Clip/Holder](IMG_4355.jpg)
+<img src="IMG_4355.jpg" alt="Cylindrical Clip/Holder" width="300">
 
-![Tape Roll](IMG_4357.jpg)
+<img src="IMG_4357.jpg" alt="Tape Roll" width="300">
 
 Patent Info:
 
