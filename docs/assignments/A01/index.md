@@ -42,16 +42,29 @@ The primary function of this "Snail" style tape dispenser is to dispense and cut
 >Stress concentration for material failure. The serrated metal blade focuses pressure to create small failure points which then expand due to the triangular teeth.
 
 Governing Model:
-The main behavior involves two phases: Manual unrolling of the tape for length selection and the cutting with the serrated blade when force is applied downward. The governing model of the cutting phase is outlined here:
+
+The main behavior involves two phases: 
+
+Manual unrolling of the tape for length selection and the cutting with the serrated blade when force is applied downward. The governing model of the cutting phase is outlined here:
+
 i. Model and Variables
+
 The cutting action is governed by stress concentration and tensile failure mechanics, modeled by the tensile stress equation using a stress concentration factor at the cutting teeth:
+
 \sigma_{max} = K_t \cdot \frac{F}{A}
+
 \sigma_{max}: The maximum local tensile stress experienced by the tape at the cutting edge (N/m^2 or Pa).
+
 K_t: The geometric stress concentration factor determined by the sharpness and shape of the blade's teeth (dimensionless).
+
 F: The tensile force applied by the user to the tape (N).
+
 A: The cross section area of the tape (A = w \cdot t, where w is tape width and t is tape thickness) (m^2).
+
 Failure happens when sigma_{max} \ge sigma_{ut} (the maximum tensile strength of the tape).
+
 Assumption:
+
 One key assumption that makes this model valid is that the tape acts in a brittle or almost brittle manner during the quick tear. While adhesive tape is polymer based and viscoelastic, the sudden force against the sharp, rigid teeth minimizes plastic deformation and focuses the stress to cause tensile failure along the cross section.
 
 Component Geometry:
