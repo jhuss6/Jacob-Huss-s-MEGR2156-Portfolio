@@ -148,4 +148,4 @@ As an Engineer in the making, what brought me into the engineering field was my 
 
 Defending an engineering decision means that the logical steps, facts, and analysis' are all detailed and clear to understand, and that if they were re-attempted independently they would provide consistent and effective results again and again. I have a rough idea how to do it though I am not confident enough to go into detail. Simply put the main steps are categorized as Analysis', Decisions, and Communication.
 
-
+In total I spent around 8-10 Hours on this assignment.
