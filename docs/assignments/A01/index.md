@@ -57,9 +57,9 @@ $$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
 * **$K_t$**: The geometric stress concentration factor determined by the sharpness and shape of the blade's teeth (dimensionless).
 
-F: The tensile force applied by the user to the tape (N).
+* F: The tensile force applied by the user to the tape (N).
 
-A: The cross section area of the tape (A = w \cdot t, where w is tape width and t is tape thickness) (m^2).
+* A: The cross section area of the tape (A = w \cdot t, where w is tape width and t is tape thickness) (m^2).
 
 Failure happens when sigma_{max} \ge sigma_{ut} (the maximum tensile strength of the tape).
 
