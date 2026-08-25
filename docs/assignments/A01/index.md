@@ -37,9 +37,9 @@ Primary Function:
 
 The primary function of this "Snail" style tape dispenser is to dispense and cut adhesive tape from an inserted roll. Mechanically, two tasks are performed:
 
->Rotational support and guidance. The cylindrical clip acts as both a bearing and a stopper to ensure the tape roll will rotate smoothly and not come out of alignment.<
+>Rotational support and guidance. The cylindrical clip acts as both a bearing and a stopper to ensure the tape roll will rotate smoothly and not come out of alignment.
 
->Stress concentration for material failure. The serrated metal blade focuses pressure to create small failure points which then expand due to the triangular teeth.<
+Stress concentration for material failure. The serrated metal blade focuses pressure to create small failure points which then expand due to the triangular teeth.<
 
 Governing Model:
 The main behavior involves two phases: Manual unrolling of the tape for length selection and the cutting with the serrated blade when force is applied downward. The governing model of the cutting phase is outlined here:
