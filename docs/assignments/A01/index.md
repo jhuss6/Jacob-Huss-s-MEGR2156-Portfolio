@@ -35,11 +35,11 @@ Upon landing on this users landing page, tabs that direct readers to the key sec
 
 **Reproducibility:**
 
-Reproducing this portfolio would likely take a greater level of skill with GitHub, and would be more reasonable for a higher level engineering student or someone with a great independent understanding of the site and how to code webpages.
+Reproducing this portfolio would likely take a greater level of skill with GitHub, and would be more reasonable for a higher level engineering student or someone with a great independent understanding of the site and how to code webpages. The work conducted likewise would take a greater level of skill in engineering, which is sensible considering their years of professional experience that go beyond what you would expect in just academics.
 
 **Evidence of Reasoning:**
 
-Throughout their work they showed a great level of detail, organization, and communication of their thoughts, math, design processes, etc. They clearly demonstrate a higher level of skill in engineering, likely years ahead of most MEGR 2156 students.
+Throughout their work they showed a great level of detail, organization, and communication of their thoughts, math, design processes, etc. They clearly demonstrate a higher level of skill in engineering, likely years ahead of most MEGR 2156 students in some of their earliest works.
 
 **Professional Tone:**
 
