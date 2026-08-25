@@ -5,7 +5,7 @@
 
 ## Analyze
 
-# Task A:  Portfolio Analysis
+Task A:  Portfolio Analysis
 
 For the first profile I chose to analyze, I used a random number generator to pick a student from the Spring 2026 2156 portfolio archives. The number generated was 118 which corresponded to the portfolio of Cael Brokaw.
 
@@ -31,7 +31,7 @@ Professional Tone:
 
 [Jesse Mayo's Github Portfolio](https://jsmayo.github.io/)
 
-# Task B:  Product Analysis
+Task B:  Product Analysis
 
 Primary Function:
 
@@ -110,11 +110,17 @@ Design Decision: One design decision i can infer from the original design is the
 
 ## Decide
 
-# Homepage Identity
+Homepage Identity:
 
-# One Intentional Customization
+To maximize clarity and eliminate confusion for it's readers, the homepage is designed to immediately state the portfolio's purpose: to document the engineering work conducted by myself for the MEGR 2156 course. Since engineering precision applies to both physical designs and communication, the landing page layout is structured to give direct, error free paths to work materials. By prefacing the scope of the course work and providing an easy to access link to the assignments tab, this homepage ensures that readers can efficiently locate and review the work without unnecessarily burdening themselves.
 
-# Documentation Standard
+One Intentional Customization:
+
+An intentional customization i made for my portfolio was to change the title of each assignment page to include the name of the assignment and the week it was scheduled to be completed during. This will allow readers to easily locate the assignment they wish to, as well as help to keep track of the timeframe of the semester.
+
+Documentation Standard:
+
+I will ensure that all assignments completed during this course follow the proper standard of documentation. They will Analyze, Decide, and Communicate in an effective manner so that they are easily understood by readers.
 
 ## Communicate
 
