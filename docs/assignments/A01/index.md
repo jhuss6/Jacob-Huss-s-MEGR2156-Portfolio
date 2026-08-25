@@ -106,6 +106,8 @@ Patent Number: USRE41505E1: The main function of this tape dispenser is the same
 
 Design Decision: One design decision i can infer from the original design is the utilization of the hole of the tape spool as an ergonomic finger holder. As a hand held tool, i think they made this design decision to improve the tactile control of the dispenser for users.
 
+["Snail" Style Tape Dispenser Patent](https://patents.google.com/patent/USD116599S/en?oq=USD116599S)
+
 ## Decide
 
 #Homepage Identity
