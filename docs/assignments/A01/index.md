@@ -73,7 +73,7 @@ Snail Style Tape Dispenser:
 
 <img src="IMG_4354.jpg" alt="Snail Style Tape Dispenser" width="300">
 
-This tape dispenser is a modern, mass produced plastic version of a WW2 era tape dispenser, it is designed for compactness, handheld use, and lower manufacturing demands than it's larger counterparts.
+This tape dispenser is a modern, mass produced plastic version of a Post-Great Depression era tape dispenser, it is designed for compactness/portability, handheld use, and lower manufacturing demands than it's larger counterparts. Like many products of it's time, the substantial decrease in cost was a highly favorable factor consumers.
 
 Serrated Blade:
 
@@ -98,8 +98,21 @@ Patent Info:
 Patent Number: USD116599S
 Inventor: Jean Otis Reinecke
 
+Potential Alternative #1:
+
+Patent Number: US4059210A: The main function of this tape dispenser is the same, to dispense and cut adhesive tape from an inserted roll. However it is designed to be rested on a flat surface, with a weighted base for stability, not for compactness/portability, handheld use, or lower manufacturing demands.
+
+Patent Number: USRE41505E1: The main function of this tape dispenser is the same, to dispense and cut adhesive tape from an inserted roll. However it is designed for larger tape rolls, and easy sealing of boxes for shipping/storage, not for compactness, or lower manufacturing demands.
+
+Design Decision: One design decision i can infer from the original design is the utilization of the hole of the tape spool as an ergonomic finger holder. As a hand held tool, i think they made this design decision to improve the tactile control of the dispenser for users.
+
 ## Decide
 
+#Homepage Identity
+
+#One Intentional Customization
+
+#Documentation Standard
 
 ## Communicate
 
