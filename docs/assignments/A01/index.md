@@ -63,7 +63,7 @@ $$\sigma_{max} = K_t \cdot \frac{F}{A}$$
 
 Failure happens when sigma_{max} \ge sigma_{ut} (the maximum tensile strength of the tape).
 
-(/Note: i am unsure how to properly display the math symbols on the published page but in the GitHub preview it displays fine.)/
+/(Note: i am unsure how to properly display the math symbols on the published page but in the GitHub preview it displays fine.)/
 
 Assumption:
 
