@@ -52,5 +52,5 @@ Lesson Learned
 
 I still don't understand the intricacies of solid works to a great enough degree to easily model a truss with tools like Weldments but i managed to effectively model a truss without the need of any specialized tools which i think is a valuable lesson and could translate well into the real world of professional engineering. And overall I also learned a lot about the fundamentals of truss design on paper, even though my work is certainly flawed somehow.
 
-<a href="docs/assignments/A02/trussA2model.SLDPRT" download>Truss CAD Model Download</a>
-<a href="docs/assignments/A02/pincadmodela2.SLDPRT" download>Pin CAD Model Download</a>
+<a href="./docs/assignments/A02/trussA2model.SLDPRT" download>Truss CAD Model Download</a>
+<a href="./docs/assignments/A02/pincadmodela2.SLDPRT" download>Pin CAD Model Download</a>
