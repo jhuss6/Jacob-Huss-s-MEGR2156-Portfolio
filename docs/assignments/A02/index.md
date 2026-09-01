@@ -37,5 +37,17 @@ After finding the cross sectional area, i plugged in the square root value into 
 
 <img src="completedtruss.png" alt="Completed Truss" width="300">
 
+After completing everything for the truss i moved on to calculating the required diameter of the pins and modeling the pin in CAD. The connecting pins are made of hardened tool steel with a yield strength of 170 ksi and a density of 0.278 lb/in3.
+
+<img src="pincalculations.png" alt="Calculations For Pin Area and Weight" width="300">
+
+And finally I modeled a very simple pin in CAD.
+
+<img src="pincadmodel.png" alt="Pin CAD Model" width="300">
+
+
 ## Communicate
 
+Lesson Learned
+
+I still don't understand the intricacies of solid works to a great enough degree to easily model a truss with tools like Weldments but i managed to effectively model a truss without the need of any specialized tools which i think is a valuable lesson and could translate well into the real world of professional engineering. And overall I also learned a lot about the fundamentals of truss design on paper, even though my work is certainly flawed somehow.
