@@ -95,7 +95,7 @@ Calculations
 
 # Cad Model
 
-After having completed the design calculations I began to design the motor mount in solid works, beginning with the parametric equations and needed variables. Once all necessary values were input, I created a sketch for Feature 1.
+After having completed the design calculations I began to design the motor mount in solid works, beginning with the parametric equations and needed variables. Once all necessary values were input, I created a sketch for Feature 1 with length and width equal to their corresponding variables.
 
 <img src="ParametricEquationsA4.png" alt="CAD Equations and Variables" width="600">
 
@@ -104,6 +104,8 @@ After having completed the design calculations I began to design the motor mount
 I then turned this sketch into an extruded feature and set the thickness equal to the parametric equation i set up in the equations section.
 
 <img src="Feature1ExtrudeA4.png" alt="CAD Extrude 1" width="600">
+
+With the main dimensions of feature 1 complete i could move on to feature 2, which follows the same basic steps.
 
 ## Decide
 
