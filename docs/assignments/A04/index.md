@@ -95,7 +95,9 @@ Calculations
 
 # Cad Model
 
-After having completed the design calculations I began to design the motor mount in solid works, beginning with a sketch for feature 1.
+After having completed the design calculations I began to design the motor mount in solid works, beginning with the parametric equations and needed variables. Once all necessary values were input, I created a sketch for Feature 1.
+
+<img src="ParametricEquationsA4.png" alt="CAD Equations and Variables" width="600">
 
 <img src="CadSketch1A4.png" alt="CAD Sketch" width="600">
 
