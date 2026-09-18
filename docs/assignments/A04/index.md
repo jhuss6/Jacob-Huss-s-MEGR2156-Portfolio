@@ -48,17 +48,21 @@ Youngs Modulus = 1.79 - 3.2 GPa, 1.79 selected for Calculations.
 
 Given Variables
 
+<img src="Feature1Knowns.png" alt="Givens" width="600">
+
 Unknown Variables
+
+<img src="Feature1Unknowns.png" alt="Find" width="600">
 
 Assumptions
 
 Free-Body Diagram / Sketch1
 
-Stress Analysis
+<img src="Feature1Sketch.png" alt="Sketch 1" width="600">
 
-Deflection Analysis
+Calculations
 
-Numerical solution
+<img src="Feature1Calculation.png" alt="Calculations" width="600">
 
 Cross-Sectional Geometry
 
