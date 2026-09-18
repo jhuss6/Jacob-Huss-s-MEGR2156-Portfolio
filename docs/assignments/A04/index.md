@@ -115,6 +115,23 @@ Extrude the shape with defined parametric equation.
 
 <img src="Feature2ExtrudeA4.png" alt="CAD Extrude 2" width="600">
 
+With The basic Geometry done I could then add additional features.
+
+Motor Shaft Hole
+
+<img src="MotorShaftHole.png" alt="Motor Shaft Hole" width="600">
+
+Motor Face Mounting Holes
+
+<img src="MotorFaceHoles.png" alt="Motor Face Mounting Holes" width="600">
+
+Motor Outer Diameter Ridge for Further Allignment.
+
+<img src="MotorOuterRidge.png" alt="Outer Diameter Ridge" width="600">
+
+Wall Mounting Holes
+
+<img src="WallMountHoles.png" alt="Wall Mounting Holes" width="600">
 
 ## Decide
 
