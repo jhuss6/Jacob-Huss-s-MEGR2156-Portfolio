@@ -12,7 +12,7 @@ Feature 2 – The Wall Mount: designed to allow attachment of the motor mount to
 
 Both features are to be designed to minimize deflection and stress while satisfying the required constraints.
 
-<img src="figure1.png" alt="Figure 1" width="600">
+<img src="figure1.png" alt="Figure 1" width="250">
 
 ## Analyze
 
