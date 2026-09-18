@@ -28,6 +28,7 @@ Maximum Deflection = 0.30 mm.
 
 Material(Choose) = ABS, PETG, or PLA.
 
+
 Motor Dimensions:
 
 <img src="MotorDimensions.png" alt="Motor Dimensions" width="600">
@@ -37,6 +38,7 @@ Motor Diameter = 27.7 mm.
 Motor Face Mounting Holes = four M3 holes centered 11 mm away from shaft center at every 90 degrees.
 
 Motor Length = 74.6 mm (excl. Shaft and centering lip)
+
 
 Material Properties:
 
@@ -65,6 +67,7 @@ Free-Body Diagram / Sketch1
 Calculations
 
 <img src="Feature1Calculation.png" alt="Calculations" width="600">
+
 
 # Feature 2 – Wall Mount
 
