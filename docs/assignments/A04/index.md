@@ -64,37 +64,25 @@ Calculations
 
 <img src="Feature1Calculation.png" alt="Calculations" width="600">
 
-Cross-Sectional Geometry
-
-Moment of Inertia Validation
-
-Stress Validation
-
-Deflection Validation
-
 # Feature 2 – Wall Mount
 
 Given Variables
 
+<img src="Feature2Knowns.png" alt="Givens 2" width="600">
+
 Unknown Variables
+
+<img src="Feature2Unknowns.png" alt="Find 2" width="600">
 
 Assumptions
 
-Free-Body Diagram / Sketch2
+Free-Body Diagram / Sketch1
 
-Stress Analysis
+<img src="Feature2Sketch.png" alt="Sketch 2" width="600">
 
-Deflection Analysis
+Calculations
 
-Numerical solution
-
-Cross-Sectional Geometry
-
-Moment of Inertia Validation
-
-Stress Validation
-
-Deflection Validation
+<img src="Feature2Calculation.png" alt="Calculations 2" width="600">
 
 # Sketch
 
