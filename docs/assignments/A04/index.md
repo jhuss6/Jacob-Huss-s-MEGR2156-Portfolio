@@ -133,6 +133,17 @@ Wall Mounting Holes
 
 <img src="WallMountHoles.png" alt="Wall Mounting Holes" width="600">
 
+Additional Rib Supports
+
+<img src="AdditionalRibSupports.png" alt="Additional Rib Supports" width="600">
+
+Leaving the motor mount finally completed
+
+<img src="FinalMotorMount.png" alt="Final Motor Mount" width="600">
+
+<a href="./motormountA4.SLDPRT" download>Download Motor Mount Model</a>
+
+
 ## Decide
 
 
