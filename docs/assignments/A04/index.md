@@ -90,7 +90,9 @@ Unknown Variables
 
 <img src="Feature2Unknowns.png" alt="Find 2" width="600">
 
-Free-Body Diagram / Sketch1
+Free-Body Diagram / Sketch2
+
+Here is the sketch I drew for feature 2 to better understand what needed to be done. The force experienced by feature 2 was not offset this time, but instead it was a rotational moment force,
 
 <img src="Feature2Sketch.png" alt="Sketch 2" width="600">
 
@@ -161,6 +163,21 @@ Leaving the motor mount finally completed
 
 ## Decide
 
+Material Selection:
+
+I decided to select ABS for it's favorable thermal environment rating, usefulness in automotive and machine parts, toughness, and impact resistance. I used it's lower bound values for it's Youngs modulus and Yield Strength from it's material data sheet provided in the assignment to add an extra layer of safety.
+
+Dimension Selections:
+
+I decided on 40 mm by 40 mm for feature 1's length and width to keep a good balance of compactness and ample room for the motor. For feature 2 I decided on the length being 60 mm in addition to the thickness of feature 1, leaving enough room for a 2x3 array of bolt mounting holes that would be strong enough for the design specifications.
+
+Design Selections:
+
+Though not specified in the assignment, I decided to add a ridge to further ensure the motor would be aligned properly, and support ribs along the edges of the corner between Features 1 and 2 to add extra strength, and theoretically to prevent points of failure along the corner. I had no particular reasoning for the spacing of the wall mount holes and all other design features were necessary features given the motors geometry and the calculations conducted.
+
 
 ## Communicate
 
+Lessons Learned:
+
+One of the key things I learned while doing this assignment was how to use stress and deflection equations to determine the appropriate geometries for my design. I also learned the importance of carefully interpreting the design requirements and appendix when setting up my calculations. I made a mistake in the calculations for Feature 1 by not using the proper formula for an axially offset loaded cantilever beam. This assignment helped me better understand how analytical calculations can be applied to create a functional CAD model. I spent approximately 10 hours completing the assignment, with most of that time spent researching, performing calculations and modeling my design in SOLIDWORKS.
