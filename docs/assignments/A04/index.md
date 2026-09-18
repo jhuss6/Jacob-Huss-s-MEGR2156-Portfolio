@@ -30,6 +30,8 @@ Material(Choose) = ABS, PETG, or PLA.
 
 Motor Dimensions:
 
+<img src="MotorDimensions.png" alt="Motor Dimensions" width="600">
+
 Motor Diameter = 27.7 mm.
 
 Motor Face Mounting Holes = four M3 holes centered 11 mm away from shaft center at every 90 degrees.
@@ -87,7 +89,6 @@ Calculations
 # Sketch
 
 <img src="IsometricSketchA4.png" alt="Isometric Sketch" width="600">
-
 
 # Cad Model
 
