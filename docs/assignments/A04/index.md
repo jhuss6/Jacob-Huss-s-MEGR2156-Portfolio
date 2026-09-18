@@ -107,6 +107,15 @@ I then turned this sketch into an extruded feature and set the thickness equal t
 
 With the main dimensions of feature 1 complete i could move on to feature 2, which follows the same basic steps.
 
+Sketch the feature with defined parametric variables.
+
+<img src="CadSketch2A4.png" alt="CAD Sketch 2" width="600">
+
+Extrude the shape with defined parametric equation.
+
+<img src="Feature2ExtrudeA4.png" alt="CAD Extrude 2" width="600">
+
+
 ## Decide
 
 
