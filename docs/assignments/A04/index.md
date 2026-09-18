@@ -95,6 +95,14 @@ Calculations
 
 # Cad Model
 
+After having completed the design calculations I began to design the motor mount in solid works, beginning with a sketch for feature 1.
+
+<img src="CadSketch1A4.png" alt="CAD Sketch" width="600">
+
+I then turned this sketch into an extruded feature and set the thickness equal to the parametric equation i set up in the equations section.
+
+<img src="Feature1ExtrudeA4.png" alt="CAD Extrude 1" width="600">
+
 ## Decide
 
 
