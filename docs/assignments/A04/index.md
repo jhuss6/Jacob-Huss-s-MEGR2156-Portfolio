@@ -42,7 +42,7 @@ Motor Length = 74.6 mm (excl. Shaft and centering lip)
 
 Material Properties:
 
-Selected Material = ABS
+Selected Material = ABS (Selected for it's favorable heat rating, usefulness in automotive and machinery parts, toughness, and impact resistance.)
 
 Yield Strength = 29.6 - 48 MPa, 29.6 selected for Calculations.
 
@@ -50,7 +50,11 @@ Youngs Modulus = 1.79 - 3.2 GPa, 1.79 selected for Calculations.
 
 # Feature 1 – Motor Support
 
+As specified in the assignment outline, the deflection and the derivative with respect to x of the feature attached to the wall were assumed to be zero, and the safety factor was assumed to account for the shaft and mounting holes. The goal for this section of math is to solve for the cross sectional area of the feature(in turn meaning the thickness since the width was selected).
+
 Given Variables
+
+These are the Variables I found from the assignment and my selections when needed.
 
 <img src="Feature1Knowns.png" alt="Givens" width="600">
 
@@ -58,20 +62,27 @@ Unknown Variables
 
 <img src="Feature1Unknowns.png" alt="Find" width="600">
 
-Assumptions
-
 Free-Body Diagram / Sketch1
+
+Here is the sketch I drew for feature 1 to better understand what needed to be done. since the force was not applied to the feature itself, but rather the shaft of the motor, this slightly complicated the math. If it were an end loaded cantilever beam it would be far simpler but instead I needed to find an equation for an offset load that produces a moment.
 
 <img src="Feature1Sketch.png" alt="Sketch 1" width="600">
 
 Calculations
 
+Through researching the topic I decided on the formulas seen below.
+
 <img src="Feature1Calculation.png" alt="Calculations" width="600">
 
+I ended up with the final value of 13.4 mm which allows for ~4.6 mm of shaft accessibility. If more shaft length was needed, the addition of further width for feature 1 would be the easiest fix.
 
 # Feature 2 – Wall Mount
 
+As specified in the assignment outline, the rigid surface was assumed to be satisfactory in it's ability to support the mounting bolts. like with feature 1, the goal for this section of math is to again solve for the cross sectional area of the feature(meaning the thickness since the width was selected).
+
 Given Variables
+
+These are the Variables I found from the assignment information and my selections when needed.
 
 <img src="Feature2Knowns.png" alt="Givens 2" width="600">
 
@@ -79,17 +90,21 @@ Unknown Variables
 
 <img src="Feature2Unknowns.png" alt="Find 2" width="600">
 
-Assumptions
-
 Free-Body Diagram / Sketch1
 
 <img src="Feature2Sketch.png" alt="Sketch 2" width="600">
 
 Calculations
 
+Through researching the topic I decided on the formulas seen below.
+
 <img src="Feature2Calculation.png" alt="Calculations 2" width="600">
 
+I ended up with the final value of 23.8 mm. Like with feature 1 in the cases of more necessary shaft length, if feature 2 needed to be thinner for space constraints, added width would again be the easiest fix.
+
 # Sketch
+
+Here is my isometric sketch with dimensions that were found in the previous calculations.
 
 <img src="IsometricSketchA4.png" alt="Isometric Sketch" width="600">
 
@@ -117,11 +132,11 @@ Extrude the shape with defined parametric equation.
 
 With The basic Geometry done I could then add additional features.
 
-Motor Shaft Hole
+Motor Shaft Hole for necessary shaft access.
 
 <img src="MotorShaftHole.png" alt="Motor Shaft Hole" width="600">
 
-Motor Face Mounting Holes
+Motor Face Mounting Holes for necessary motor attachment.
 
 <img src="MotorFaceHoles.png" alt="Motor Face Mounting Holes" width="600">
 
@@ -129,11 +144,11 @@ Motor Outer Diameter Ridge for Further Allignment.
 
 <img src="MotorOuterRidge.png" alt="Outer Diameter Ridge" width="600">
 
-Wall Mounting Holes
+Wall Mounting Holes for necessary wall mounting.
 
 <img src="WallMountHoles.png" alt="Wall Mounting Holes" width="600">
 
-Additional Rib Supports
+Additional Rib Supports for added stability and strength.
 
 <img src="AdditionalRibSupports.png" alt="Additional Rib Supports" width="600">
 
