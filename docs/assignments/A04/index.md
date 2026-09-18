@@ -14,7 +14,7 @@ Motor Dimensions
 
 Material Properties
 
-Feature 1 – Motor Support
+#Feature 1 – Motor Support
 
 Given Variables
 
@@ -38,7 +38,7 @@ Stress Validation
 
 Deflection Validation
 
-Feature 2 – Wall Mount
+#Feature 2 – Wall Mount
 
 Given Variables
 
@@ -62,9 +62,9 @@ Stress Validation
 
 Deflection Validation
 
-Sketch
+#Sketch
 
-Cad Model
+#Cad Model
 
 ## Decide
 
