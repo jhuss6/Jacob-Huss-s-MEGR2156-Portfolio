@@ -86,7 +86,7 @@ Calculations
 
 # Sketch
 
-<img src="IsometricSketchA4" alt="Isometric Sketch" width="600">
+<img src="IsometricSketchA4.png" alt="Isometric Sketch" width="600">
 
 
 # Cad Model
