@@ -8,19 +8,20 @@ In this assignment I was tasked with designing an aluminum bar for stiffness und
 
 Firstly, I listed the known values provided from the assignment, the density for standard 6061 aluminum(acquired from the default data in solid works), and the diameter of the bar(manually selected).
 
-<img src="A3Knowns.jpg" alt="Known Values" width="300">
+<img src="A3Knowns.png" alt="Known Values" width="300">
 
 Secondly, I listed the unknown values that I needed to solve for. These included the cross sectional area, length, volume, weight, axial stress, and safety factor. As is standard I also drew an accompanying free body diagram.
 
-<img src="A3Unknowns.jpg" alt="Unknown Values" width="300">
+<img src="A3Unknowns.png" alt="Unknown Values" width="300">
+<img src="A3FBD.png" alt="Free Body Diagram" width="300">
 
 Thirdly I consulted course materials and the internet for the necessary equations for each unknown value.
 
-<img src="IMG_4354.jpg" alt="Snail Style Tape Dispenser" width="300">
+<img src="A3symbolic.png" alt="Symbolic Solutions" width="300">
 
 Lastly, I manually calculated each unknown value by plugging in respective values from the known values listed and from prior calculations as I went through them.
 
-<img src="IMG_4354.jpg" alt="Snail Style Tape Dispenser" width="300">
+<img src="A3Numerical.png" alt="Numerical Solutions" width="300">
 
 
 ## Decide
